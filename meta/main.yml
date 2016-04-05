@@ -5,7 +5,4 @@ galaxy_info:
   license: Apache 2.0
   min_ansible_version: 1.9.1
 
-dependencies:
-  - role: dwcramer.java
-    java_packages: [ "oracle-java7-installer" ]
 
